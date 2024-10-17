@@ -1,2 +1,0 @@
-# Aluraflix
-Alura
